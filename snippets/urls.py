@@ -5,7 +5,7 @@ from .views import (
     SnippetDetail,
     UserList,
     UserDetail,
-    }
+)
 
 
 urlpatterns = [
